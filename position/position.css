@@ -1,0 +1,229 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header {
+background-color: rgb(119, 204, 185);
+height: 80px;
+display: flex;
+color: white;
+justify-content: space-between;
+
+}
+.left{
+  margin-left: 30px;
+  padding-top: 20px;
+}
+.left{
+   margin-left: 30px;
+   padding-top: 20px;
+}
+.right{
+   margin-top: 20px;
+   margin-right: 20px;
+  }
+  .right button{
+    padding: 5px 15px; 
+  
+  }
+  .mid{
+      margin-top: 20px;
+      
+      
+  }
+  .mid a{
+    padding: 5px;
+    font-size: large;
+    color: rgb(206, 95, 95);
+    text-decoration: none;
+    font-weight: bolder;
+
+
+}
+
+.mid .first{
+    color: white;
+    text-decoration: solid underline rgb(214, 66, 66) 4px;
+
+    
+  }
+  .first-part{
+      height: 80%;
+      background-color:rgb(211, 201, 201);
+      
+      
+  }
+  .second-part{
+      background-color: rgb(241, 229, 231);
+      height: 120%;
+  }
+  .first-block{
+      display: flex;
+      padding-top: 120px;
+  margin-left: 30px;
+  }
+  .first-blocks{
+      height: 300px;
+      width: 400px;
+      margin: 20px;
+      border:  solid 3px red;            
+  
+  }
+  .small-twoo{
+      height: 70px;
+      width: 70px;
+      border:  solid 4px red;
+      background-color: rgb(192, 122, 31);
+      text-align: center;
+      align-items: center;
+      margin-top: 5%;
+      margin-left: 40%;
+    
+  }
+  .small-twooo{
+      height: 70px;
+      width: 70px;
+      border:  solid 4px red;
+      background-color: rgb(192, 122, 31);
+      text-align: center;
+      align-items: center;
+      margin-top: 3%;
+      margin-left: 4%;
+  
+  }
+  
+  .small-one{
+      height: 70px;
+      width: 70px;
+      border:solid 4px rgb(45, 136, 172) ;
+      background-color:skyblue;
+      margin-top: 3%;
+      text-align: center;
+      align-items: center;
+      margin-left: 40%;
+  }
+  .small-two{
+      height: 70px;
+      width: 70px;
+      border:  solid 4px red;
+      text-align: center;
+      align-items: center;
+     background-color:rgb(192, 122, 31);
+      margin-top: 5%;
+  
+      margin-left: 40%;
+  }
+  .small-three{
+      height: 70px;
+      width: 70px;
+      text-align: center;
+      align-items: center;
+      border:  solid 4px rgb(45, 136, 172);
+     background-color:skyblue;
+      margin-top: 5%;
+      margin-left: 40%;
+  }
+  
+  .second-blocks{
+      height: 300px;
+      width: 400px;
+     margin: 20px;
+      border:  solid 3px red;
+  
+  }
+  .third-blocks{
+      height: 300px;
+      width: 400px;
+     margin: 20px;
+      border:  solid 3px red;
+      display: block;
+  
+  }
+  .fourth-blocks{
+      height: 300px;
+      width: 400px;
+      border:  solid 3px red;
+  
+  }
+  .last-part{
+      height:280%;
+      background-color: rgb(197, 181, 181);
+  }
+  .first-row{
+      display: flex;
+      margin: 50px;
+      margin-bottom: 0px;
+  }
+  .first-box{
+      
+      height: 100px;
+      width: 100px;
+      padding: 20px;
+      margin: 10px;
+      border: solid 4px rgb(45, 136, 172);
+      background-color:skyblue ;
+  }
+  .second-row{
+      display: flex;
+      margin: 50px;
+      margin-top: 0;
+  }
+  .third-row{
+      display: flex;
+      margin-left: 130px;
+      margin-top: -50px;
+  }
+  hr{
+      width: 80%;
+      margin-left: 100px;
+      margin-top: 10px;
+      
+      line-height: 3%;
+  }
+  .fourth-row{
+      display: flex;
+      margin-left: 150px;
+      margin-top: 50px;
+  }
+  .first-box1{
+      height: 130px;
+      width: 400px;
+     border: solid 4px rgb(45, 136, 172);
+    background-color:skyblue;
+     margin-top: 12px; 
+  }
+  .five-row{
+      display: flex;
+      margin: 50px;
+      margin-left: 100px;
+      padding: 15px;
+  }
+  .last{
+      
+      background-color:rgb(32, 155, 114);
+      text-align: center;
+      padding:20px;
+  }
+  .last a{
+      color: white;
+      margin: 3%;   
+  }
+  .top-row {
+  
+      margin-top: 5%;
+      margin-left: 40%;
+      
+  }
+  .last-part .last-heading {
+     padding-top: 5%;
+     padding-left: 40%;
+      ;
+  }
+  .first-part .top-heading{
+      padding-left: 40%;
+     
+  }
+  .mid-heading{
+      padding-left: 40%;
+  } 
+ 
